@@ -1,0 +1,17 @@
+.btn{
+    width: 150px;
+    padding: 10px;
+    margin-left: 10px;
+    
+    color: black;
+
+    text-transform: uppercase;
+
+    border: 1px solid transparent;
+    background-color: rgb(215, 196, 233);
+}
+
+.btn:hover,
+.btn:focus{
+    background-color: rgb(42, 133, 214);
+}
